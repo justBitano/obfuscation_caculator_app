@@ -1,0 +1,17 @@
+using System.CodeDom.Compiler;
+using System.Configuration;
+using System.Runtime.CompilerServices;
+
+namespace CaclulatorDemo.Properties;
+
+[GeneratedCode("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.1.0.0")]
+[CompilerGenerated]
+internal sealed class Settings : ApplicationSettingsBase
+{
+	private static Settings m__200B_202C_202E_206A_200D_200B_206F_206C_206C_206B_202B_200F_202D_202D_202A_206F_206C_206E_202B_206B_200D_202B_206D_206A_206E_200C_206B_200F_202C_200C_206C_202B_200F_206D_202E_202D_202D_202B_202D_202E_202E = (Settings)SettingsBase.Synchronized(new Settings());
+
+	public static Settings _200B_202C_202E_206A_200D_200B_206F_206C_206C_206B_202B_200F_202D_202D_202A_206F_206C_206E_202B_206B_200D_202B_206D_206A_206E_200C_206B_200F_202C_200C_206C_202B_200F_206D_202E_202D_202D_202B_202D_202E_202E()
+	{
+		return Settings.m__200B_202C_202E_206A_200D_200B_206F_206C_206C_206B_202B_200F_202D_202D_202A_206F_206C_206E_202B_206B_200D_202B_206D_206A_206E_200C_206B_200F_202C_200C_206C_202B_200F_206D_202E_202D_202D_202B_202D_202E_202E;
+	}
+}
